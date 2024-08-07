@@ -72,6 +72,12 @@ p{
 .redes img{
     width: 50px;
 }
-
-
-
+@media only screen and (max-width: 500px) {
+    header{
+    width: 100%;
+        background-color: brown;
+    }
+    .juegos img{
+        width:  ;
+    }
+}
